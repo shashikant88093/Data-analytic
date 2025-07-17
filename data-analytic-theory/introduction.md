@@ -1,0 +1,2 @@
+# What is data analytic theory?
+- Data analytic theory is a framework that provides a systematic approach to understanding and applying data analysis techniques. It encompasses the principles, methodologies, and practices that guide the effective use of data in various fields, including statistics, machine learning, and data science.
