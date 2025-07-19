@@ -1,0 +1,1 @@
+- In Pandas, tolist() is a method primarily used to convert a Pandas Series or a Pandas Index into a standard Python list. It returns a new list containing all the elements of the Series or Index in their original order, preserving their data types.
